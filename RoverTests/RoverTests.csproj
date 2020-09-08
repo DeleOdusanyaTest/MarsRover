@@ -66,6 +66,9 @@
     <Reference Include="nunit.framework">
       <HintPath>..\..\..\..\Downloads\MarsRovers\MarsRovers\packages\NUnit.3.11.0\lib\net45\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="Rover">
+      <HintPath>..\Rover\bin\Debug\Rover.dll</HintPath>
+    </Reference>
     <Reference Include="SpecRun.Runtime.SpecFlowPlugin">
       <HintPath>..\packages\SpecRun.SpecFlow.3-4-0.3.4.5\lib\net461\SpecRun.Runtime.SpecFlowPlugin.dll</HintPath>
     </Reference>
