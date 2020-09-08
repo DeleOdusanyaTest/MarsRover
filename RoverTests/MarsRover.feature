@@ -1,6 +1,5 @@
 ﻿Feature: MarsRover
-As a Nasa operative
-I want to control the rovers
+As a Nasa operative I want to control the rovers
 So I can see what the surrounding terrain in Mars is like
 
 
